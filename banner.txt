@@ -37,7 +37,7 @@ echo -e "
 ··;ΫβΜββΜ··············΄΅ΓΓ΅ΓΓ················πΜΒχβΜΠ
 ·;··ΜΜΜΜΜ;····································χΜΜΜΜΜ
 ·····΄ΫΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜΜMMMΜΜΜΜΜΜΜΜΜΜΜΜΜΠ
-·······ΪΜμμμμμ  မာမူ TERMUX MYANMAR မာမူ  μμμμμμμμμμ
+·······ΪΜμμμμμ TERMUX HACKER TEAM   μμμμμμμμμμ
 ·······΅ΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫ
 
 " | lolcat
@@ -45,7 +45,7 @@ echo -e "
 sleep 2
 clear
 echo -e $RD"Created By MarMu"
-echo -e $RD"Myanmar"
+echo -e $RD"Myanmar BayBe Hacker Team"
 
 echo -e "
 ··················ΔΜΒ΄ΚΚκκΚΪΜΜΜΜΜΪΜΜΝ
@@ -78,3 +78,38 @@ echo -e "
 ·······ΪΜμμμμμ. TERMUX  MYANMAR  TEAM  μμμμμμμμμμ
 ·······΅ΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫ
 " | lolcat
+
+sleep 2
+clear
+echo -e $YL "MarMu Return .."
+
+echo -e $PP ""
+echo -e "
+
+8""8""8              8""8""8          8"""8  8"""" ""8"" 8   8 8"""8  8"""8      
+8  8  8 eeeee eeeee  8  8  8 e   e    8   8  8       8   8   8 8   8  8   8      
+8e 8  8 8   8 8   8  8e 8  8 8   8    8eee8e 8eeee   8e  8e  8 8eee8e 8e  8      
+88 8  8 8eee8 8eee8e 88 8  8 8e  8    88   8 88      88  88  8 88   8 88  8      
+88 8  8 88  8 88   8 88 8  8 88  8    88   8 88      88  88  8 88   8 88  8      
+88 8  8 88  8 88   8 88 8  8 88ee8    88   8 88eee   88  88ee8 88   8 88  8      
+"
+
+sleep 3
+clear
+
+echo -e $LBL """
+
+******************************************************
+*___       ___                ___       ___          *
+*`MMb     dMM'                `MMb     dMM'          *
+* MMM.   ,PMM                  MMM.   ,PMM           *
+* M`Mb   d'MM    ___   ___  __ M`Mb   d'MM ___   ___ *
+* M YM. ,P MM  6MMMMb  `MM 6MM M YM. ,P MM `MM    MM *
+* M `Mb d' MM 8M'  `Mb  MM69 " M `Mb d' MM  MM    MM *
+* M  YM.P  MM     ,oMM  MM'    M  YM.P  MM  MM    MM *
+* M  `Mb'  MM ,6MM9'MM  MM     M  `Mb'  MM  MM    MM *
+* M   YP   MM MM'   MM  MM     M   YP   MM  MM    MM *
+* M   `'   MM MM.  ,MM  MM     M   `'   MM  YM.   MM *
+*_M_      _MM_`YMMM9'Yb_MM_   _M_      _MM_  YMMM9MM_*
+******************************************************
+""" | lolcat
