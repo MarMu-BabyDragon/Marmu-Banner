@@ -28,7 +28,7 @@ apt-get install nmap -y
 apt-get install apache2 -y 
 apt-get install cowsay -y
 apt-get install ruby -y
-figlet -f small MarMu RETURN..!! | lolcat
+figlet -f burble MarMu RETURN..!! | lolcat
 echo
 echo -e "\e[1m Now Run ..!!!"
 echo
