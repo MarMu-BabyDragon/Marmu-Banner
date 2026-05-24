@@ -1,5 +1,5 @@
 #!/bin/bash
-#utf-8
+#code=utf-8
 
 clear
 echo 
