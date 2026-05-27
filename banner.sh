@@ -53,6 +53,7 @@ echo -e $cyan """
 """
  | lolcat
 echo 
+        cat "mark.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 echo -e $yellow"☆☆☆" $red "Love Myanmar $white"$yellow ☆☆☆
 echo -e $purple           ♡$yellow TERMUX$white of$green MYANMAR$purple ♡"
 echo -e $green"    ᕙ⁠(✯⁠ᴗ⁠✯⁠)⁠ᕗ=$blue M$red====A$yellow====R$white====M$purple====U $green=ᕙ⁠(✯⁠ᴗ⁠✯⁠)⁠ᕗ"
@@ -66,8 +67,10 @@ PS1='\[\031[01;33m\]┌───\[\033[01;35m\]《 \[\033[01;32m\]T-HACKER\[\033
 \[\033[01;31m\]╰⁠(…⁠ᘛ⁠(⁠◠⁠‿⁠◕)ᕐᐷᐷ '
 echo "PS1" >mark.txt
 
-        cat "mark.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
+echo
+sleep 0.2
 
+echo
 alias M='cmatrix'
 alias c='clear'
 alias h='help'
